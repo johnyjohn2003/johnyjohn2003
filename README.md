@@ -23,6 +23,12 @@ I am a **BCA (Bachelor of Computer Applications) Graduate** specializing in **Da
 
 ---
 
+### 📈 Data Analytics & ML Projects
+
+- 📊 **[Customer Churn Analytics](https://github.com/johnyjohn2003/customer-churn-analytics)** - A Python machine learning pipeline that uses Gaussian Naive Bayes to classify customer churn risk, featuring a FastAPI backend and a Streamlit dashboard.
+
+---
+
 ### 💻 Academic & Web Projects
 
 Here are some of my featured Django web applications and database systems built during my academic studies:
