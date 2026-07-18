@@ -1,28 +1,28 @@
 # Hi there, I'm Johny! 👋
 
-I am a **Data Analytics Student** passionate about data analysis, Python development, and database management. I enjoy working with data, building web applications for class projects, and discovering insights.
+I am a **BCA (Bachelor of Computer Applications) Graduate** specializing in **Data Analytics** and **Python Development**. I focus on bridging software engineering with data intelligence to build analytical tools and clean web applications.
 
 ---
 
-### 🎓 About Me
+### 🚀 Professional Profile
 
-- 📚 Currently pursuing studies in **Data Analytics**.
-- 🛠️ Primary Focus: Python (Data Analysis, Scripting), SQL (Database Management), and Django Web Development.
-- 🎨 Portfolio: Check out my portfolio project **[Johnyportfolio](https://github.com/johnyjohn2003/Johnyprotfolio)**.
-- ⚡ Fun fact: I enjoy translating raw data into meaningful and visually appealing structures!
+- 🎓 **Education:** BCA Graduate (Bachelor of Computer Applications)
+- 📊 **Specialization:** Data Analysis, Data Visualization, and Database Management
+- 🐍 **Tech Stack:** Python (Data Processing, Pandas, NumPy), SQL (Relational Databases), and Django Web Framework
+- ⚡ **Goal:** Building data-driven applications and extracting key insights that solve business problems
 
 ---
 
-### 💻 College Projects
+### 💻 Academic & Web Projects
 
-Here are some of my featured academic and Django web projects:
+Here are some of my featured Django web applications and database systems built during my academic studies:
 
-- 🛍️ **[Green Store](https://github.com/johnyjohn2003/green-store)** - A Django e-commerce platform built as a college project to demonstrate shopping cart checkout flows and administration.
-- ⚽ **[Turf Booking System](https://github.com/johnyjohn2003/turf-booking-system)** - An academic reservation system managing ground availability and slot bookings.
-- 🚗 **[Car Service System](https://github.com/johnyjohn2003/car-service)** - A service tracking project designed for vehicle repair logs and inventory.
-- 🦷 **[Dental Clinic](https://github.com/johnyjohn2003/dental-clinic)** - An appointment manager database built for a dental practice scenario.
-- 💧 **[Online Water Billing System](https://github.com/johnyjohn2003/online-water-billing-system)** - A utility billing system application designed as a course project.
-- 🚿 **[Water Project](https://github.com/johnyjohn2003/waterproject)** - A light administrative tool built for customer records and billing invoicing.
+- 🛍️ **[Green Store](https://github.com/johnyjohn2003/green-store)** - A full-featured Django e-commerce platform demonstrating product listings, user shopping cart checkout flows, and database administration.
+- ⚽ **[Turf Booking System](https://github.com/johnyjohn2003/turf-booking-system)** - A reservation management application built to manage sports ground schedules, slots, and bookings.
+- 🚗 **[Car Service System](https://github.com/johnyjohn2003/car-service)** - A service log manager for auto repairs, client tracking, and inventory databases.
+- 🦷 **[Dental Clinic](https://github.com/johnyjohn2003/dental-clinic)** - An appointment scheduler app for clinic management and patient records.
+- 💧 **[Online Water Billing System](https://github.com/johnyjohn2003/online-water-billing-system)** - A billing dashboard application for tracking water usage metrics and customer invoicing.
+- 🚿 **[Water Project](https://github.com/johnyjohn2003/waterproject)** - An administration utility tool designed to record customer profiles and handle ledger logs.
 
 ---
 
