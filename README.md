@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=johnyjohn2003&color=blue&style=flat-square" alt="visitor counter" />
+</p>
+
 I am a **BCA (Bachelor of Computer Applications) Graduate** specializing in **Data Analytics** and **Python Development**. I focus on bridging software engineering with data intelligence to build analytical tools and clean web applications.
 
 ---
@@ -55,6 +59,7 @@ Here are some of my featured Django web applications and database systems built 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=johnyjohn2003&show_icons=true&theme=nord&count_private=true" alt="Johny's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnyjohn2003&theme=nord" alt="GitHub Streak" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnyjohn2003&layout=compact&theme=nord" alt="Top Languages" height="180px" />
 </p>
 
