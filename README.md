@@ -1,28 +1,28 @@
 # Hi there, I'm Johny! 👋
 
-I am a passionate **Full Stack Software Engineer** specializing in Python and modern web applications. I love building data-driven tools that solve real-world problems.
+I am a **Data Analytics Student** passionate about data analysis, Python development, and database management. I enjoy working with data, building web applications for class projects, and discovering insights.
 
 ---
 
-### 🚀 About Me
+### 🎓 About Me
 
-- 🔭 I’m currently working on building and optimizing web applications and Python tools.
-- 🎨 I enjoy crafting interactive portfolios like **[Johnyportfolio](https://github.com/johnyjohn2003/Johnyprotfolio)** to showcase visual designs and clean frontend code.
-- 🐍 Primary Focus: Python (Backend & Scripting) & Web Technologies (HTML5, CSS3, JavaScript).
-- ⚡ Fun fact: I believe that code is the perfect blend of logic and creativity!
+- 📚 Currently pursuing studies in **Data Analytics**.
+- 🛠️ Primary Focus: Python (Data Analysis, Scripting), SQL (Database Management), and Django Web Development.
+- 🎨 Portfolio: Check out my portfolio project **[Johnyportfolio](https://github.com/johnyjohn2003/Johnyprotfolio)**.
+- ⚡ Fun fact: I enjoy translating raw data into meaningful and visually appealing structures!
 
 ---
 
-### 💻 Open Source Projects
+### 💻 College Projects
 
-Here are some of my featured Django-based web applications:
+Here are some of my featured academic and Django web projects:
 
-- 🛍️ **[Green Store](https://github.com/johnyjohn2003/green-store)** - A modern e-commerce web application featuring user shopping carts, product checkout flows, and a custom admin dashboard.
-- ⚽ **[Turf Booking System](https://github.com/johnyjohn2003/turf-booking-system)** - A sports turf reservation and management application to schedule booking slots, manage trainer availability, and track user accounts.
-- 🚗 **[Car Service System](https://github.com/johnyjohn2003/car-service)** - A comprehensive vehicle repair and service management system for clients, technicians, and work order logging.
-- 🦷 **[Dental Clinic](https://github.com/johnyjohn2003/dental-clinic)** - A clinical record system built to schedule appointments, store patient profile details, and list treatments.
-- 💧 **[Online Water Billing System](https://github.com/johnyjohn2003/online-water-billing-system)** - A utility invoicing app featuring water customer tracking, usage calculation, and payment billing.
-- 🚿 **[Water Project](https://github.com/johnyjohn2003/waterproject)** - A light administrative tool designed to track client registrations and generate billing sheets.
+- 🛍️ **[Green Store](https://github.com/johnyjohn2003/green-store)** - A Django e-commerce platform built as a college project to demonstrate shopping cart checkout flows and administration.
+- ⚽ **[Turf Booking System](https://github.com/johnyjohn2003/turf-booking-system)** - An academic reservation system managing ground availability and slot bookings.
+- 🚗 **[Car Service System](https://github.com/johnyjohn2003/car-service)** - A service tracking project designed for vehicle repair logs and inventory.
+- 🦷 **[Dental Clinic](https://github.com/johnyjohn2003/dental-clinic)** - An appointment manager database built for a dental practice scenario.
+- 💧 **[Online Water Billing System](https://github.com/johnyjohn2003/online-water-billing-system)** - A utility billing system application designed as a course project.
+- 🚿 **[Water Project](https://github.com/johnyjohn2003/waterproject)** - A light administrative tool built for customer records and billing invoicing.
 
 ---
 
@@ -31,6 +31,8 @@ Here are some of my featured Django-based web applications:
 <p align="left">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <!-- HTML5 -->
@@ -39,8 +41,6 @@ Here are some of my featured Django-based web applications:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -63,5 +63,5 @@ Here are some of my featured Django-based web applications:
 ---
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </p>
