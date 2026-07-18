@@ -1,5 +1,11 @@
 # Hi there, I'm Johny! 👋
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=435&lines=BCA+Graduate;Aspiring+Data+Analyst;Python+%26+SQL+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
 I am a **BCA (Bachelor of Computer Applications) Graduate** specializing in **Data Analytics** and **Python Development**. I focus on bridging software engineering with data intelligence to build analytical tools and clean web applications.
 
 ---
