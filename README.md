@@ -75,7 +75,7 @@ Here are some of my featured Django web applications and database systems built 
 
 - 💼 **LinkedIn:** [Johny John](https://www.linkedin.com/in/johny-john-a753a7298?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 **Email:** [johneyjohn2003@gmail.com](mailto:johneyjohn2003@gmail.com)
-- 🌐 **Portfolio:** [Check out my portfolio](
+- 🌐 **Portfolio:** [Check out my portfolio](https://johnyjohn2003.github.io/Johnyprotfolio/)
 
 ---
 
